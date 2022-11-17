@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjunkolipaka
-- 👀 I’m interested in Machine Learning Engineering.
-- 🌱 I’m currently learning Fairness and Explainability in ML.
+- 👀 I’m interested in Machine Learning Research and Engineering.
+- 🌱 I’m currently trying to understand Large Language Models and how they're deployed at scale.
 - 💞️ I’m looking to collaborate on projects that involve ML for the greater good.
 - 📫 How to reach me: **[E-mail](mailto:arjunkumarkolipaka@gmail.com)**, **[LinkedIn](https://www.linkedin.com/in/arjun-kumar-kolipaka/)**.
 
